@@ -15,5 +15,5 @@ export const FAVORITES = {
   GET_FAVORITES: "GET_FAVORITES",
 };
 
-export const JSON_API_PRODUCTS = "https://deploy-db-history.vercel.app/themes";
+export const JSON_API_PRODUCTS = "https://kyrgyz-deploy.vercel.app/themes";
 export const JSON_API_IPHONES = " http://localhost:8000/themes";
